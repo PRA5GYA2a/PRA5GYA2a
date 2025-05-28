@@ -1,4 +1,4 @@
-# 🤖 AI Course Project – [Project Title]
+# Painting with AI
 
 Welcome to the **AI Course Project** repository! This project was developed as part of the **[Course Name]** at **[Institution/Instructor]**, showcasing applied AI/ML concepts.
 
